@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="style1">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>Ecole élémentaire Jean Moulin</name>
+      <address>Ecole élémentaire Jean Moulin AUXONNE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Auxonne Val de Saone</value>
+        </Data>
+        <Data name="Ville">
+          <value>AUXONNE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire</name>
+      <address>Ecole élémentaire FLAMMERANS</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Auxonne Val de Saone</value>
+        </Data>
+        <Data name="Ville">
+          <value>FLAMMERANS</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole Primaire Blanche Fleurs</name>
+      <address>Ecole Primaire Blanche Fleurs BEAUNE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Beaune</value>
+        </Data>
+        <Data name="Ville">
+          <value>BEAUNE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Primaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire Champagne St Nicolas</name>
+      <address>Ecole élémentaire Champagne St Nicolas BEAUNE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Beaune</value>
+        </Data>
+        <Data name="Ville">
+          <value>BEAUNE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole Primaire</name>
+      <address>Ecole Primaire BLIGNY-SUR-OUCHE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Beaune</value>
+        </Data>
+        <Data name="Ville">
+          <value>BLIGNY-SUR-OUCHE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Primaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire Francis Carco</name>
+      <address>Ecole élémentaire Francis Carco CHATILLON-SUR-SEINE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Chatillon</value>
+        </Data>
+        <Data name="Ville">
+          <value>CHATILLON-SUR-SEINE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole primaire</name>
+      <address>Ecole primaire AIGNAY-LE-DUC</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Chatillon</value>
+        </Data>
+        <Data name="Ville">
+          <value>AIGNAY-LE-DUC</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Primaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire En St Jacques (REP+)</name>
+      <address>Ecole élémentaire En St Jacques (REP+) CHENOVE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Chenove</value>
+        </Data>
+        <Data name="Ville">
+          <value>CHENOVE</value>
+        </Data>
+        <Data name="REP">
+          <value>REP+</value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire Bourdenière (REP+)</name>
+      <address>Ecole élémentaire Bourdenière (REP+) CHENOVE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Chenove</value>
+        </Data>
+        <Data name="Ville">
+          <value>CHENOVE</value>
+        </Data>
+        <Data name="REP">
+          <value>REP+</value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire</name>
+      <address>Ecole élémentaire ROUVRES-EN-PLAINE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Chenove</value>
+        </Data>
+        <Data name="Ville">
+          <value>ROUVRES-EN-PLAINE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole maternelle Mansart</name>
+      <address>Ecole maternelle Mansart DIJON</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Centre</value>
+        </Data>
+        <Data name="Ville">
+          <value>DIJON</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Maternelle</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole maternelle Lamartine (REP)</name>
+      <address>Ecole maternelle Lamartine (REP) DIJON</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Centre</value>
+        </Data>
+        <Data name="Ville">
+          <value>DIJON</value>
+        </Data>
+        <Data name="REP">
+          <value>REP</value>
+        </Data>
+        <Data name="Niveau">
+          <value>Maternelle</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire Alain Millot</name>
+      <address>Ecole élémentaire Alain Millot DIJON</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Centre</value>
+        </Data>
+        <Data name="Ville">
+          <value>DIJON</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire La Fleuriée</name>
+      <address>Ecole élémentaire La Fleuriée ST-APOLLINAIRE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Est</value>
+        </Data>
+        <Data name="Ville">
+          <value>ST-APOLLINAIRE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole maternelle Val Sully</name>
+      <address>Ecole maternelle Val Sully ST-APOLLINAIRE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Est</value>
+        </Data>
+        <Data name="Ville">
+          <value>ST-APOLLINAIRE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Maternelle</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole maternelle Henri Vincenot</name>
+      <address>Ecole maternelle Henri Vincenot VAROIS-ET-CHAIGNOT</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Est</value>
+        </Data>
+        <Data name="Ville">
+          <value>VAROIS-ET-CHAIGNOT</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Maternelle</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire</name>
+      <address>Ecole élémentaire HAUTEVILLE-LES-DIJON</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Nord</value>
+        </Data>
+        <Data name="Ville">
+          <value>HAUTEVILLE-LES-DIJON</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire</name>
+      <address>Ecole élémentaire IS-SUR-TILLE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Nord</value>
+        </Data>
+        <Data name="Ville">
+          <value>IS-SUR-TILLE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire</name>
+      <address>Ecole élémentaire BELLENEUVE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Nord</value>
+        </Data>
+        <Data name="Ville">
+          <value>BELLENEUVE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole primaire</name>
+      <address>Ecole primaire DAROIS</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Nord</value>
+        </Data>
+        <Data name="Ville">
+          <value>DAROIS</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Primaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole maternelle Ouest</name>
+      <address>Ecole maternelle Ouest DIJON</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Ouest</value>
+        </Data>
+        <Data name="Ville">
+          <value>DIJON</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Maternelle</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élementaire Drapeau</name>
+      <address>Ecole élementaire Drapeau DIJON</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Ouest</value>
+        </Data>
+        <Data name="Ville">
+          <value>DIJON</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire Les Champs Perdrix (REP)</name>
+      <address>Ecole élémentaire Les Champs Perdrix (REP) DIJON</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Ouest</value>
+        </Data>
+        <Data name="Ville">
+          <value>DIJON</value>
+        </Data>
+        <Data name="REP">
+          <value>REP</value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire</name>
+      <address>Ecole élémentaire BRAZEY-EN-PLAINE</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Sud</value>
+        </Data>
+        <Data name="Ville">
+          <value>BRAZEY-EN-PLAINE</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole primaire</name>
+      <address>Ecole primaire L'ETANG-VERGY</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Sud</value>
+        </Data>
+        <Data name="Ville">
+          <value>L'ETANG-VERGY</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Primaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire Marie MAIGNOT</name>
+      <address>Ecole élémentaire Marie MAIGNOT NUITS-SAINT-GEORGES</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Sud</value>
+        </Data>
+        <Data name="Ville">
+          <value>NUITS-SAINT-GEORGES</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire Henri CHALLAND</name>
+      <address>Ecole élémentaire Henri CHALLAND NUITS-SAINT-GEORGES</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>Dijon Sud</value>
+        </Data>
+        <Data name="Ville">
+          <value>NUITS-SAINT-GEORGES</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole primaire</name>
+      <address>Ecole primaire BLAISY-BAS</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>SOMBERNON</value>
+        </Data>
+        <Data name="Ville">
+          <value>BLAISY-BAS</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Primaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ecole élémentaire J.-C. Marin</name>
+      <address>Ecole élémentaire J.-C. Marin SOMBERNON</address>
+      <description> </description>
+      <styleUrl>#style1</styleUrl>
+      <ExtendedData>
+        <Data name="Secteur">
+          <value>SOMBERNON</value>
+        </Data>
+        <Data name="Ville">
+          <value>SOMBERNON</value>
+        </Data>
+        <Data name="REP">
+          <value></value>
+        </Data>
+        <Data name="Niveau">
+          <value>Elementaire</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
